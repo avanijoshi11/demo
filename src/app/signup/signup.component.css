@@ -1,0 +1,37 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+mat-form-field {
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+  }
+
+  mat-card {
+    max-width: 400px;
+    width: 100%;
+    padding: 20px;
+  }
+/* 
+button {
+    align-self: flex-end;
+} */
+  
+.signup-link,
+.login-link {
+    text-align: center;
+    margin-top: 20px;
+}
+  
+.signup-link a,
+.login-link a {
+    color: #007bff;
+}

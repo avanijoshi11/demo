@@ -1,0 +1,104 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "signupUsers": [
+    {
+      "name": "Avani",
+      "phone": 7487810581,
+      "email": "avani3110@gmail.com",
+      "password": "Av@ni@3110",
+      "confirm-pwd": "Av@ni@3110",
+      "id": 1
+    },
+    {
+      "name": "Aviii",
+      "phone": 9913861305,
+      "email": "aviii31@com",
+      "password": "avii3110",
+      "confirm-pwd": "onLogout()",
+      "id": 2
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "abc",
+      "lastName": "abcd",
+      "email": "abc@100",
+      "dob": "2024-03-13T18:30:00.000Z",
+      "gender": "male",
+      "education": "graduate",
+      "company": "abcdef",
+      "experience": 2,
+      "package": 5,
+      "id": 2
+    },
+    {
+      "firstName": "xyz",
+      "lastName": "xyz",
+      "email": "xyz@com",
+      "dob": "2024-03-29T18:30:00.000Z",
+      "gender": "others",
+      "education": "graduate",
+      "company": "abc",
+      "experience": 5,
+      "package": 5,
+      "id": 3
+    },
+    {
+      "firstName": "Abcdef",
+      "lastName": "dfhg",
+      "email": "gthfdj",
+      "dob": "2024-03-18T18:30:00.000Z",
+      "gender": "others",
+      "education": "diploma",
+      "company": "trfhfg",
+      "experience": 4,
+      "package": 45,
+      "id": 6
+    },
+    {
+      "firstName": "Abcdef",
+      "lastName": "dfhg",
+      "email": "gthfdj",
+      "dob": "2024-03-18T18:30:00.000Z",
+      "gender": "male",
+      "education": "diploma",
+      "company": "trfhfg",
+      "experience": 45,
+      "package": 45,
+      "id": 8
+    },
+    {
+      "firstName": "Abcdef",
+      "lastName": "dfhg",
+      "email": "gthfdj",
+      "dob": "2024-03-18T18:30:00.000Z",
+      "gender": "male",
+      "education": "diploma",
+      "company": "trfhfg",
+      "experience": 4,
+      "package": 45,
+      "id": 10
+    },
+    {
+      "firstName": "Avanii",
+      "lastName": "Joshi",
+      "email": "avani3110@com",
+      "dob": "2024-03-27T18:30:00.000Z",
+      "gender": "female",
+      "education": "Post Graduate",
+      "company": "abcdef",
+      "experience": 5,
+      "package": 15,
+      "id": 11
+    }
+  ]
+}
